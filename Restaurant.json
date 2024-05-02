@@ -1,0 +1,93 @@
+[
+  {
+    "dishes": [
+      {
+        "Id": 100,
+        "DishName": "Masala Dosa",
+        "Price": 85.0,
+        "Available": true,
+        "RetaurantId": 1
+      },
+      {
+        "Id": 104,
+        "DishName": "dosas",
+        "Price": 888.0,
+        "Available": false,
+        "RetaurantId": 1
+      },
+      {
+        "Id": 107,
+        "DishName": "Butter Dosa",
+        "Price": 30.0,
+        "Available": true,
+        "RetaurantId": 1
+      },
+      {
+        "Id": 109,
+        "DishName": "Veg. Meals",
+        "Price": 50.0,
+        "Available": true,
+        "RetaurantId": 1
+      }
+    ],
+    "Id": 1,
+    "RName": "Hidine",
+    "Open": true
+  },
+  {
+    "dishes": [
+      {
+        "Id": 102,
+        "DishName": "Biriyani",
+        "Price": 140.0,
+        "Available": true,
+        "RetaurantId": 2
+      },
+      {
+        "Id": 103,
+        "DishName": "Tea",
+        "Price": 10.0,
+        "Available": true,
+        "RetaurantId": 2
+      },
+      {
+        "Id": 108,
+        "DishName": "Apple Juice",
+        "Price": 60.0,
+        "Available": true,
+        "RetaurantId": 2
+      }
+    ],
+    "Id": 2,
+    "RName": "Chillies",
+    "Open": true
+  },
+  {
+    "dishes": [
+      {
+        "Id": 104,
+        "DishName": "dosas",
+        "Price": 888.0,
+        "Available": false,
+        "RetaurantId": 3
+      },
+      {
+        "Id": 105,
+        "DishName": "Mango Juice",
+        "Price": 60.0,
+        "Available": true,
+        "RetaurantId": 3
+      },
+      {
+        "Id": 106,
+        "DishName": "Meals",
+        "Price": 70.0,
+        "Available": true,
+        "RetaurantId": 3
+      }
+    ],
+    "Id": 3,
+    "RName": "Nahdi",
+    "Open": true
+  }
+]

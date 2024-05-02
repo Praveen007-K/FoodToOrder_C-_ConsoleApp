@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodToOrder", "FoodToOrder.csproj", "{A50D1F7C-A20F-419E-A2D7-F69D731D1C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodToOrderLibrary", "..\FoodToOrderLibrary\FoodToOrderLibrary.csproj", "{5E71FD99-6857-4422-8107-444356D84E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50D1F7C-A20F-419E-A2D7-F69D731D1C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50D1F7C-A20F-419E-A2D7-F69D731D1C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50D1F7C-A20F-419E-A2D7-F69D731D1C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50D1F7C-A20F-419E-A2D7-F69D731D1C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E71FD99-6857-4422-8107-444356D84E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E71FD99-6857-4422-8107-444356D84E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E71FD99-6857-4422-8107-444356D84E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E71FD99-6857-4422-8107-444356D84E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B514E050-2C4B-496F-ABC2-CBFECD982F30}
+	EndGlobalSection
+EndGlobal
